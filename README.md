@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shaikh Muhaiminul Islam Tasin.
 - 👀 I’m interested in ...Web Development.
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... how to build a website.
 - 💞️ I’m looking to collaborate on ... Any othre Person Who is interested in Web Development ... 
 - 📫 01794382332 this is my whatsapp number. fell free to knock me... Thank you.
 
