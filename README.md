@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shaikh Muhaiminul Islam Tasin.
 - 👀 I’m interested in ...Web Development.
-- 🌱 I’m currently learning ... how to build a website.
-- 💞️ I’m looking to collaborate on ... Any othre Person Who is interested in Web Development ... 
-- 📫 01794382332 this is my whatsapp number. fell free to knock me... Thank you.
+- 🌱 I’m currently learning ... how to build a professional website.
+- 💞️ I’m looking to collaborate on ... Any othre Person Who is interested in Frontend Development ... 
+- 📫 01794382332 this is my whatsapp number. feel free to knock me anytime... Thank you.
 
 <!---
 muhaiminultasin/muhaiminultasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
